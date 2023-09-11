@@ -1,4 +1,5 @@
-<h2>Hi, I'm Emir Sadovic! <br/><a href="https://github.com/joshmadakor1">Graduated IT engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">QA manual tester</a></h2>
+<h2>Hi, I'm Emir Sadovic! <br/>
+<a href="https://github.com/joshmadakor1"> Graduated IT engineer</a> / <a href="https://www.linkedin.com/in/joshmadakor/">QA manual tester</a></h2>
 
 <h2>👨‍💻 About me:</h2>
 
@@ -22,7 +23,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Courses:</h2>
-- <b>My skills</b>
+- <b>Course 1</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Course 2</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Certificates:</h2>
