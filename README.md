@@ -11,7 +11,7 @@ Proficient in software testing methodologies, defect tracking, and test automati
 
 <h2>👨‍💻 CV:</h2>
 - <b>My CV</b>
-  - [You can find my CV on link)] (https://drive.google.com/file/d/1rjljEk70y4RxfxOFfVSjpjiuvnA2mlWk/view?usp=sharing))
+  - [You can find my CV on link)] https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing
 
 <h2>👨‍💻 Skills:</h2>
 - <b>My skills</b>
