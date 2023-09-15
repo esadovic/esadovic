@@ -1,29 +1,30 @@
 <h2> Hi, I'm Emir Sadovic! <br/>
-<a href="https://github.com/joshmadakor1"> Graduated IT engineer</a> / <a href="https://www.linkedin.com/in/joshmadakor/">QA manual tester</a></h2>
+<a href="https://github.com/esadovic"> Graduated IT engineer</a> / <a href="www.linkedin.com/in/
+emir-sadović">QA manual tester</a></h2>
 
 <h2>👨‍💻 About me:</h2>
 
 - <b>Abour me (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://www.google.com/)
 
 <h2>👨‍💻 CV:</h2>
 - <b>My CV</b>
-  - [You can find my CV on link)] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [You can find my CV on link)] (https://www.google.com/)
 
 <h2>👨‍💻 Skills:</h2>
 - <b>My skills</b>
-  - [My skills] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [My skills] (https://www.google.com/)
   
   <h2>👨‍💻 Tools</h2>
   - <b>My Tools</b>
-  - [Tools that i have used] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Tools that i have used] (https://www.google.com/)
 
 <h2>👨‍💻 Courses:</h2>
 - <b>Course 1</b>
-  - [Course 1] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Course 1] (https://www.google.com/)
   <br>
 - <b>Course 2</b>
-  - [Course 2] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Course 2] (https://www.google.com/)
 
 <h2>👨‍💻 Certificates:</h2>
 - <b>Certificates</b>
