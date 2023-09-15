@@ -7,7 +7,7 @@ Emir Sadović, graduted IT engineer with solid background in web development (HT
 
 Currently practicing as a QA Tester, seeking a challenging position as a QA Engineer. 
 
-Proficient in software testing methodologies, defect tracking, and test automation. Passionate about ensuring software quality and driving continuous improvement.
+Proficient in software testing methodologies, defect tracking, passionate about ensuring software quality and driving continuous improvement.
 
 <h2>👨‍💻 CV:</h2>
 
