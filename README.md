@@ -27,16 +27,16 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
 
 - Adobe Lightroom and Photoshop
 
-<h2>👨‍💻 Courses:</h2>
-- <b>Course 1</b>
-  - [Course 1] (https://www.google.com/)
-  <br>
-- <b>Course 2</b>
-  - [Course 2] (https://www.google.com/)
-
 <h2>👨‍💻 Certificates:</h2>
 - <b>Certificates</b>
   - [Certificate 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 My projects:</h2>
+- <b>Project 1</b>
+  - [Project 2] (https://www.google.com/)
+  <br>
+- <b>Project 2</b>
+  - [Project 2] (https://www.google.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
