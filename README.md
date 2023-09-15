@@ -15,12 +15,17 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
 
 <h2>👨‍💻 Skills:</h2>
 
-	Software Testing Tools (JIRA - Trello)
-	Mobile application testing skills
-	API testing (Postman)
-	Web applications developement (HTML, CSS, Javascript)
-	Microsoft Office suite
-	Adobe Lightroom and Photoshop
+- Software Testing Tools (JIRA - Trello)
+  
+-	Mobile application testing skills
+  
+- API testing (Postman)
+  
+- Web applications developement (HTML, CSS, Javascript)
+
+- Microsoft Office suite
+
+- Adobe Lightroom and Photoshop
 
 <h2>👨‍💻 Courses:</h2>
 - <b>Course 1</b>
