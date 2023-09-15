@@ -4,7 +4,11 @@
 <h2>👨‍💻 About me:</h2>
 
 - <b>Abour me (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://www.google.com/)
+  - Emir Sadović, graduted IT engineer with solid background in web development (HTML, CSS, JavaScript), transitioning into a QA engineering role. Detail-oriented and results-driven, with a strong foundation in information technology. 
+
+Currently practicing as a QA Tester, seeking a challenging position as a QA Engineer. 
+
+Proficient in software testing methodologies, defect tracking, and test automation. Passionate about ensuring software quality and driving continuous improvement.
 
 <h2>👨‍💻 CV:</h2>
 - <b>My CV</b>
