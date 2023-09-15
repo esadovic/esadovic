@@ -15,22 +15,17 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
 
 <h2>👨‍💻 Skills:</h2>
 
-- Software Testing Tools (JIRA - Trello)
-  
--	Mobile application testing skills
-  
-- API testing (Postman)
-  
-- Web applications developement (HTML, CSS, Javascript)
-
-- Microsoft Office suite
-
-- Adobe Lightroom and Photoshop
+- Software Testing Tools (JIRA - Trello) <br>
+-	Mobile application testing skills <br>
+- API testing (Postman) <br>
+- Web applications developement (HTML, CSS, Javascript) <br>
+- Microsoft Office suite <br>
+- Adobe Lightroom and Photoshop <br>
 
 <h2>👨‍💻 Certificates:</h2>
-Certificate 1 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
-Certificate 2 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
-Certificate 3 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
+Certificate 1 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
+Certificate 2 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
+Certificate 3 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
 
 <h2>👨‍💻 My projects:</h2>
 - <b>Project 1</b>
