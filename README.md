@@ -3,8 +3,7 @@
 
 <h2>👨‍💻 About me:</h2>
 
-- <b>Abour me (AlgoExpert)</b>
-  - Emir Sadović, graduted IT engineer with solid background in web development (HTML, CSS, JavaScript), transitioning into a QA engineering role. Detail-oriented and results-driven, with a strong foundation in information technology. 
+Emir Sadović, graduted IT engineer with solid background in web development (HTML, CSS, JavaScript), transitioning into a QA engineering role. Detail-oriented and results-driven, with a strong foundation in information technology. 
 
 Currently practicing as a QA Tester, seeking a challenging position as a QA Engineer. 
 
