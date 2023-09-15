@@ -1,5 +1,5 @@
 <h2> Hi, I'm Emir Sadovic! <br/>
-<a href="https://github.com/esadovic"> Graduated IT engineer</a> / <a href="www.linkedin.com/in/emir-sadovic">QA manual tester</a></h2>
+<a href="https://github.com/esadovic"> Graduated IT engineer</a> / <a href="www.linkedin.com/in/emir-sadović">QA manual tester</a></h2>
 
 <h2>👨‍💻 About me:</h2>
 
