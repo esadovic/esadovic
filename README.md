@@ -14,12 +14,13 @@ Proficient in software testing methodologies, defect tracking, and test automati
 You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
 
 <h2>👨‍💻 Skills:</h2>
-- <b>My skills</b>
-  - [My skills] (https://www.google.com/)
-  
-  <h2>👨‍💻 Tools</h2>
-  - <b>My Tools</b>
-  - [Tools that i have used] (https://www.google.com/)
+
+	Software Testing Tools (JIRA - Trello)
+	Mobile application testing skills
+	API testing (Postman)
+	Web applications developement (HTML, CSS, Javascript)
+	Microsoft Office suite
+	Adobe Lightroom and Photoshop
 
 <h2>👨‍💻 Courses:</h2>
 - <b>Course 1</b>
