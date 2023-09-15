@@ -28,11 +28,8 @@ Certificate 2 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK
 Certificate 3 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
 
 <h2>👨‍💻 My projects:</h2>
-- <b>Project 1</b>
-  - [Project 2] (https://www.google.com/)
-  <br>
-- <b>Project 2</b>
-  - [Project 2] (https://www.google.com/)
+Project 1 (https://www.google.com/)   <br>
+Project 2 (https://www.google.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
