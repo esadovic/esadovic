@@ -28,8 +28,9 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
 - Adobe Lightroom and Photoshop
 
 <h2>👨‍💻 Certificates:</h2>
-- <b>Certificates</b>
-  - [Certificate 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Certificate 1 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
+Certificate 2 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
+Certificate 3 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing)
 
 <h2>👨‍💻 My projects:</h2>
 - <b>Project 1</b>
@@ -37,13 +38,6 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
   <br>
 - <b>Project 2</b>
   - [Project 2] (https://www.google.com/)
-
-<h2>📺 Popular YouTube Videos</h2>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) <br>
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU) <br>
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk) <br>
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0) <br>
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)<br>
 
 <h2> 🤳 Connect with me:</h2>
 
