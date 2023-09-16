@@ -28,7 +28,7 @@ Certificate 1 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK
 Certificate 2 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
 Certificate 3 (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmOiYA5q7jLIqbyK/view?usp=sharing) <br>
 
-<h2>👨‍💻 Examples of my works</h2>
+<h2>👨‍💻 Examples of my work: </h2>
 
 ### Test cases and work in TestRail
 
