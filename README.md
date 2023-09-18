@@ -24,8 +24,8 @@ You can find my CV on link (https://drive.google.com/file/d/1DnyV2d-lAx6VMLW1tmO
 
 <h2>👨‍💻 Certificates:</h2>
 
-QA Manual tester certificate https://drive.google.com/file/d/1qS75lYWV7USUsc9mZtSzQOQq8rYC4cWJ/view?usp=sharing <br>
-Starter Frontend developer certificate https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing <br>
+QA Manual tester certificate (https://drive.google.com/file/d/1qS75lYWV7USUsc9mZtSzQOQq8rYC4cWJ/view?usp=sharing) <br>
+Frontend beginner developer (certificate https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing) <br>
 
 
 <h2>👨‍💻 Examples of my work: </h2>
