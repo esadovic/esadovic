@@ -5,7 +5,7 @@
 
 Emir Sadović, graduted IT engineer with solid background in web development (HTML, CSS, JavaScript), transitioning into a QA engineering role. Detail-oriented and results-driven, with a strong foundation in information technology. 
 
-Currently practicing as a QA Tester, seeking a challenging position as a QA Engineer. 
+Currently practicing as a QA manual tester, seeking a challenging position as a QA Engineer. 
 
 Proficient in software testing methodologies, defect tracking, passionate about ensuring software quality and driving continuous improvement.
 
