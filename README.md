@@ -58,6 +58,11 @@ Frontend beginner developer certificate: (https://drive.google.com/file/d/1vQ_JW
 
 ### API testing in POSTMAN
 
+-Some of the HTTP methods that can be used in API calls are:
+  * GET – to get (read) data (e.g., a user list)..
+  * POST – to create new data.
+  * PUT / PATCH – to update data.
+  * DELETE – to delete data.
 
 
 <h2> 🤳 Connect with me:</h2>
