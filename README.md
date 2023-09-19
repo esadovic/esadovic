@@ -30,9 +30,9 @@ Frontend beginner developer certificate: (https://drive.google.com/file/d/1vQ_JW
 
 <h2>👨‍💻 Examples of my work: </h2>
 
-<h2> Bug reports </h2>
-<h2>Projekat 1 - Centar Nit </h2> https://github.com/esadovic/centarnitbugreport
-<h2>Projekat 2 - Emric Bau </h2> https://github.com/esadovic/emricbaubugreport
+### Bug reports:
+Projekat 1 - Centar Nit https://github.com/esadovic/centarnitbugreport
+Projekat 2 - Emric Bau https://github.com/esadovic/emricbaubugreport
 
 
 ### Test cases and work in TestRail
