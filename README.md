@@ -30,7 +30,7 @@ Frontend beginner developer certificate: (https://drive.google.com/file/d/1vQ_JW
 
 <h2>👨‍💻 Examples of my work: </h2>
 
-Projekat 1
+Projekat 1 https://github.com/esadovic/projekat1
 
 ### Test cases and work in TestRail
 
