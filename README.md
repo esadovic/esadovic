@@ -33,18 +33,14 @@ Frontend beginner developer certificate: (https://drive.google.com/file/d/1vQ_JW
 ### Bug reports:
 
 - Several bugs found on https://academybugs.com/contact-us-form/ and reported:
-  * Check bug report: https://github.com/esadovic/academybugs
-  
- 
-   
+* Check bug report: https://github.com/esadovic/academybugs
+    
 - Several bugs found on https://centarnit.com/ and reported:
-   * Check bug report: https://github.com/esadovic/centarnitbugreport
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+* Check bug report: https://github.com/esadovic/centarnitbugreport
+
 
 - Several bugs found on https://emricbau.pages.dev/ and reported:
-  * Check bug report: https://github.com/esadovic/emricbaubugreport
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
+* Check bug report: https://github.com/esadovic/emricbaubugreport
 
 
 ### Test cases and work in TestRail
