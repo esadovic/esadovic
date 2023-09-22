@@ -31,15 +31,15 @@ Frontend beginner developer [certificate:](https://drive.google.com/file/d/1vQ_J
 <h2>👨‍💻 Examples of my work: </h2>
 
 ### Bug reports:
-
-Several bugs found on https://academybugs.com/contact-us-form/ and reported: <br>
-- [Check bug report:](https://github.com/esadovic/academybugs)
     
 Several bugs found on https://centarnit.com/ and reported: <br>
 - [Check bug report:](https://github.com/esadovic/centarnitbugreport)
 
 Several bugs found on https://emricbau.pages.dev/ and reported: <br>
 - [Check bug report:](https://github.com/esadovic/emricbaubugreport)
+
+Several bugs found on http://uninp.edu.rs/ and reported: <br>
+- [Check bug report:](https://github.com/esadovic/uninpbugreport)
 
 
 ### Test cases and work in TestRail
