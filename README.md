@@ -11,7 +11,7 @@ Proficient in software testing methodologies, defect tracking, passionate about 
 
 <h2>👨‍💻 CV:</h2>
 
-You can find my CV on link (https://drive.google.com/file/d/1R120VJui-yWOHB_o7d37mxFMMWq2yBzA/view?usp=sharing)
+You can find my CV on [link:](https://drive.google.com/file/d/1R120VJui-yWOHB_o7d37mxFMMWq2yBzA/view?usp=sharing)
 
 <h2>👨‍💻 Skills:</h2>
 
