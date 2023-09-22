@@ -32,9 +32,9 @@ Frontend beginner developer certificate: (https://drive.google.com/file/d/1vQ_JW
 
 ### Bug reports:
 
-- Several bugs found on https://emricbau.pages.dev/ and reported:
-  * Bug #1. Check https://github.com/esadovic/academybugs
-  * Bug #2. 
+- Several bugs found on https://academybugs.com/contact-us-form/ and reported:
+  * Check bug report: https://github.com/esadovic/academybugs
+  
  
    
 - Several bugs found on https://centarnit.com/ and reported:
