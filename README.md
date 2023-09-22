@@ -41,6 +41,13 @@ Several bugs found on https://emricbau.pages.dev/ and reported: <br>
 Several bugs found on http://uninp.edu.rs/ and reported: <br>
 - [Check bug report:](https://github.com/esadovic/uninpbugreport)
 
+### API testing in POSTMAN
+
+- Some of the HTTP methods that can be used in API calls are:
+  * GET – to get (read) data (e.g., a user list).
+  * POST – to create new data.
+  * PUT / PATCH – to update data.
+  * DELETE – to delete data.
 
 ### Test cases and work in TestRail
 
@@ -52,15 +59,6 @@ Several bugs found on http://uninp.edu.rs/ and reported: <br>
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
   * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
   * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
-### API testing in POSTMAN
-
-- Some of the HTTP methods that can be used in API calls are:
-  * GET – to get (read) data (e.g., a user list).
-  * POST – to create new data.
-  * PUT / PATCH – to update data.
-  * DELETE – to delete data.
 
 
 <h2> 🤳 Connect with me:</h2>
