@@ -11,11 +11,11 @@ Proficient in software testing methodologies, defect tracking, passionate about 
 
 <h2>👨‍💻 CV:</h2>
 
-You can find my CV on [link:](https://drive.google.com/file/d/1R120VJui-yWOHB_o7d37mxFMMWq2yBzA/view?usp=sharing)
+You can find my CV on → [link:](https://drive.google.com/file/d/1R120VJui-yWOHB_o7d37mxFMMWq2yBzA/view?usp=sharing)
 
 <h2>👨‍💻 Skills:</h2>
 
-- Software Testing Tools (JIRA - Trello) <br>
+- Web pages and software Testing Tools (JIRA - Trello) <br>
 - Mobile application testing skills <br>
 - API testing (Postman) <br>
 - Web applications developement (HTML, CSS, Javascript) <br>
@@ -24,8 +24,8 @@ You can find my CV on [link:](https://drive.google.com/file/d/1R120VJui-yWOHB_o7
 
 <h2>👨‍💻 Certificates:</h2>
 
-- QA Manual tester [certificate:](https://drive.google.com/file/d/1qS75lYWV7USUsc9mZtSzQOQq8rYC4cWJ/view?usp=sharing) <br>
-- Frontend beginner developer [certificate:](https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing) <br>
+- QA Manual tester → [certificate:](https://drive.google.com/file/d/1qS75lYWV7USUsc9mZtSzQOQq8rYC4cWJ/view?usp=sharing) <br>
+- Frontend beginner developer → [certificate:](https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing) <br>
 
 
 <h2>👨‍💻 Examples of my work: </h2>
@@ -33,13 +33,13 @@ You can find my CV on [link:](https://drive.google.com/file/d/1R120VJui-yWOHB_o7
 ### Bug reports:
     
 Several bugs found on https://centarnit.com/ and reported: <br>
-- [Check bug report:](https://github.com/esadovic/centarnitbugreport)
+→ [Check bug report:](https://github.com/esadovic/centarnitbugreport)
 
 Several bugs found on https://emricbau.pages.dev/ and reported: <br>
-- [Check bug report:](https://github.com/esadovic/emricbaubugreport)
+→ [Check bug report:](https://github.com/esadovic/emricbaubugreport)
 
 Several bugs found on http://uninp.edu.rs/ and reported: <br>
-- [Check bug report:](https://github.com/esadovic/uninpbugreport)
+→ [Check bug report:](https://github.com/esadovic/uninpbugreport)
 
 ### API testing in POSTMAN
 
@@ -63,10 +63,10 @@ Several bugs found on http://uninp.edu.rs/ and reported: <br>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="EmirSadovic | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="EmirSadovic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="EmirSadovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EmirSadovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://www.google.com/
 [youtube]: https://www.google.com/
