@@ -30,7 +30,7 @@ You can find my CV on → [link:](https://drive.google.com/file/d/1R120VJui-yWOH
 - Frontend beginner developer → [certificate:](https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing) <br>
 
 
-<h2>👨‍💻 Examples of my work: </h2>
+<h2>👨‍💻 My work: </h2>
 
 ### Bug reports:
     
@@ -45,7 +45,7 @@ Several bugs found on http://uninp.edu.rs/ and reported: <br>
 
 ### API testing in POSTMAN
 
-Yoyu can find some of api testing examples on: → [link:](https://github.com/esadovic/apitesting)
+You can find some of api testing examples on: → [link:](https://github.com/esadovic/apitesting)
 
 ### Test cases and work in TestRail
 
