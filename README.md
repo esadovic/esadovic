@@ -45,12 +45,6 @@ Several bugs found on http://uninp.edu.rs/ and reported: <br>
 
 ### API testing in POSTMAN
 
-- Some of the HTTP methods that can be used in API calls are:
-  * GET – to get (read) data (e.g., a user list).
-  * POST – to create new data.
-  * PUT / PATCH – to update data.
-  * DELETE – to delete data.
-
 Yoyu can find some of api testing examples on: → [link](https://github.com/esadovic/apitesting)
 
 ### Test cases and work in TestRail
