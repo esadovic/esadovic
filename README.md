@@ -30,7 +30,7 @@ You can find my CV on → [link:](https://drive.google.com/file/d/1R120VJui-yWOH
 - Frontend beginner developer → [certificate:](https://drive.google.com/file/d/1vQ_JWH8tcrlbuUVWT6JfcEToQBbkbBEv/view?usp=sharing) <br>
 
 
-<h2>👨‍💻 My work: </h2>
+<h2>👨‍💻 QA Portfolio: </h2>
 
 ### Bug reports:
     
